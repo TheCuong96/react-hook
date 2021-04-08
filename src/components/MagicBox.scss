@@ -1,0 +1,9 @@
+.box-color{
+
+    $sizeBox: 200px;
+    width:$sizeBox;
+    height: $sizeBox;
+    border-radius:8px;
+    // background-color:blue;
+    transition: all 0.35 ease-in-out 0;
+}
